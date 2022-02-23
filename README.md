@@ -7,7 +7,7 @@
 
 I'm
 Full Stack Developer
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+Learning HTML,CSS,JAVA,BOOTSTRAP,REACT,ANGULAR,MONGODB,NODE JS,EXPRESS.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Saayani97/count.svg)
