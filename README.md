@@ -6,7 +6,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Sayani-yellow)](https://stackoverflow.com/users/18271141/sayani-ghosh)
 
 I'm
-Full Stack Developer
+Full Stack Developer.
 Learning HTML,CSS,JAVA,BOOTSTRAP,REACT,ANGULAR,MONGODB,NODE JS,EXPRESS.
 
 
