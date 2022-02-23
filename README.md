@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Sayani Ghosh-red)](https://www.youtube.com/channel/UCvLrnhH3qqvHc49NK893MeQ)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Sayani-red)](https://www.youtube.com/channel/UCvLrnhH3qqvHc49NK893MeQ)
 [![Linkedin Badge](https://img.shields.io/badge/-Sayani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/sayani-ghosh-0233b218b/)](https://www.linkedin.com/in/sayani-ghosh-0233b218b/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Sayani-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Sayani-yellow)](https://stackoverflow.com/users/18271141/sayani-ghosh)
